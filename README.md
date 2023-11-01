@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeric</h1>
 <h3 align="center">Learning to be a fullstack developer</h3>
 
-- 🔭 I’m currently working on **Final Project for CS50X**
+- 🔭 I’m currently working on **learning React**
 
 - 📫 How to reach me **2003jeric@gmail.com**
 
